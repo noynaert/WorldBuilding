@@ -1,0 +1,3 @@
+# Getting Started in VR chat
+
+* [VR Chat with emphasis on PC](https://youtu.be/0mEheqrEwFw)] from the channel [Sweeneytv](https://www.youtube.com/channel/UCkrUbSFjoh-DLohKpQrs2HQ) I found this one extremely useful for both Oculus and PC even though it is targeting PC.  It features a good explanation of world hopping.  The channel itself is pretty adult content, so be careful poking around if you are sensitive or if your sound is on and there are those around who are sensitive.
